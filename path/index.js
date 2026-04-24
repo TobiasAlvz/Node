@@ -1,0 +1,1 @@
+//https://complex-humor-1df.notion.site/Trabalhando-com-Caminhos-no-Node-js-node-path-34ccc8c2db9680cabbebfc74b8cc75b4
