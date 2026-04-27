@@ -26,3 +26,6 @@ console.log (folder);
 const ext = path.extname (absolutePath);
 
 console.log (ext);
+
+
+//https://complex-humor-1df.notion.site/Trabalhando-com-Informa-es-do-Sistema-no-Node-js-node-os-34fcc8c2db9680bdb9e7de37b0b9ef29
