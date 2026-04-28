@@ -1,0 +1,16 @@
+&lt;h1&gt;Olá Mundo&lt;/h1&gt;
+
+&lt;p&gt;Teste do projeto&lt;/p&gt;
+
+&lt;h2&gt;Sobre o Projeto&lt;/h2&gt;
+&lt;p&gt;Este é um exemplo simples de página HTML criada para fins de estudo e prática.&lt;/p&gt;
+
+&lt;h2&gt;Objetivos&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aprender a estrutura básica do HTML&lt;/li&gt;
+  &lt;li&gt;Utilizar títulos, parágrafos e listas&lt;/li&gt;
+  &lt;li&gt;Entender como organizar conteúdo em uma página&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Mensagem Final&lt;/h2&gt;
+&lt;p&gt;Com dedicação e prática, você evolui cada vez mais no desenvolvimento web.&lt;/p&gt;
