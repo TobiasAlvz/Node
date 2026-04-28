@@ -1,0 +1,616 @@
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:42
+Uso de Memória RAM: 9.71 GB / 15.90 GB (61%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:43
+Uso de Memória RAM: 9.71 GB / 15.90 GB (61%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:44
+Uso de Memória RAM: 9.69 GB / 15.90 GB (61%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:45
+Uso de Memória RAM: 9.68 GB / 15.90 GB (61%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:46
+Uso de Memória RAM: 9.69 GB / 15.90 GB (61%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:47
+Uso de Memória RAM: 9.79 GB / 15.90 GB (62%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:48
+Uso de Memória RAM: 9.84 GB / 15.90 GB (62%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:49
+Uso de Memória RAM: 9.86 GB / 15.90 GB (62%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:50
+Uso de Memória RAM: 9.87 GB / 15.90 GB (62%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:51
+Uso de Memória RAM: 9.93 GB / 15.90 GB (62%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:52
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:53
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:54
+Uso de Memória RAM: 10.13 GB / 15.90 GB (64%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:55
+Uso de Memória RAM: 10.14 GB / 15.90 GB (64%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:56
+Uso de Memória RAM: 10.12 GB / 15.90 GB (64%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:57
+Uso de Memória RAM: 10.12 GB / 15.90 GB (64%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:58
+Uso de Memória RAM: 10.10 GB / 15.90 GB (64%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:43:59
+Uso de Memória RAM: 10.09 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:0
+Uso de Memória RAM: 10.08 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:1
+Uso de Memória RAM: 10.08 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:2
+Uso de Memória RAM: 10.08 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:3
+Uso de Memória RAM: 10.07 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:4
+Uso de Memória RAM: 10.07 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:5
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:6
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:7
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:8
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:9
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:10
+Uso de Memória RAM: 10.07 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:11
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:12
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:13
+Uso de Memória RAM: 10.10 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:14
+Uso de Memória RAM: 10.09 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:15
+Uso de Memória RAM: 10.09 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:16
+Uso de Memória RAM: 10.09 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:17
+Uso de Memória RAM: 10.09 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:18
+Uso de Memória RAM: 10.08 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:19
+Uso de Memória RAM: 10.07 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:20
+Uso de Memória RAM: 10.08 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:21
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:22
+Uso de Memória RAM: 10.08 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:23
+Uso de Memória RAM: 10.07 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:24
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:25
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:26
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:27
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:28
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:29
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:30
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:31
+Uso de Memória RAM: 10.03 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:32
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:33
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:34
+Uso de Memória RAM: 10.03 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:35
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:36
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:38
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:39
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:40
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:41
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:42
+Uso de Memória RAM: 10.04 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:43
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:44
+Uso de Memória RAM: 9.98 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:45
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:46
+Uso de Memória RAM: 9.98 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:47
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:48
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:49
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:50
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:51
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:52
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:53
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:54
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:55
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:56
+Uso de Memória RAM: 9.96 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:57
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:58
+Uso de Memória RAM: 9.97 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:44:59
+Uso de Memória RAM: 9.96 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:45:0
+Uso de Memória RAM: 10.00 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:45:1
+Uso de Memória RAM: 10.03 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:45:2
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:45:3
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:45:4
+Uso de Memória RAM: 10.05 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:45:5
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:45:6
+Uso de Memória RAM: 10.06 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:45:7
+Uso de Memória RAM: 10.07 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:45:8
+Uso de Memória RAM: 10.07 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:45:9
+Uso de Memória RAM: 10.08 GB / 15.90 GB (63%)
+
+DETALHES DO SISTEMA
+Sistema Operacional: Windows
+Arquitetura: x64
+Modelo do Processador: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+Tempo de Atividade do Sistema: 0:0:45:10
+Uso de Memória RAM: 10.09 GB / 15.90 GB (63%)
+
